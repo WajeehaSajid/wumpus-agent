@@ -4,12 +4,17 @@ A web-based **Knowledge-Based Agent** that navigates a dynamic Wumpus World grid
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/904d3f7d-42c3-43b9-8b0b-2f837e93d441
+
+---
+
 ## Links
 
 | | URL |
 |---|---|
 | 🌐 Live Demo | (https://wumpus-agent-six.vercel.app/) |
-
 
 ---
 
