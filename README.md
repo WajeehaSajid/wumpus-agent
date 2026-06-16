@@ -53,19 +53,6 @@ https://github.com/user-attachments/assets/904d3f7d-42c3-43b9-8b0b-2f837e93d441
 
 ---
 
-## Project Structure
-
-```
-src/
-├── logic.js    # KnowledgeBase class, CNF encoding, Resolution Refutation
-├── world.js    # Grid creation, hazard placement, percepts, TELL/ASK loop
-├── App.jsx     # React UI — Grid, MetricsDash, LogPanel, KBViewer
-├── App.css     # Design system
-└── index.css   # CSS variables, animations
-```
-
----
-
 ## Local Development
 
 ```bash
