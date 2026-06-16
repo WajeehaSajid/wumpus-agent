@@ -1,7 +1,5 @@
 # WumpusLogic — Knowledge-Based Agent
 
-> AI 2002 – Artificial Intelligence (Spring 2026) · Assignment 6 · NUCES Faisalabad
-
 A web-based **Knowledge-Based Agent** that navigates a dynamic Wumpus World grid using **Propositional Logic** and **Resolution Refutation** to infer safe cells before moving.
 
 ---
@@ -91,9 +89,3 @@ npm run build   # outputs to /dist
 | Fell into pit / eaten by Wumpus | −1000 |
 | Retrieved gold | +1000 |
 
----
-
-## Submission
-
-Rename zip as: `AI_A6_XXF-YYYY.zip`  
-Include: source code + PDF report explaining the CNF encoding and resolution loop.
